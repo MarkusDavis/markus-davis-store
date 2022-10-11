@@ -31,8 +31,8 @@ Values may differ for development and production:
 
 ```
 # Authentication
-GOOGLE_CLIENT_ID=38892633916-teq0ocd6rtu8efe2q3g7vhar3upgubt2.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
 NEXTAUTH_URL=http://localhost:3000
 
 # Stripe

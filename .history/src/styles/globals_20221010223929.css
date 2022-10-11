@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .link {
+    @apply cursor-pointer hover:underline hover:text-primary;
+  }
+  .button {
+    @apply bg-red-500;
+  }
+}

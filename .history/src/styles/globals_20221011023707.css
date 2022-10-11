@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .link {
+    @apply cursor-pointer hover:underline hover:text-primary;
+  }
+  .button {
+    background-color: #fc0491;
+    padding: 2px;
+    border-radius: 30px;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+    font-size: inherit;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    display: block;
+    font-size: 13px;
+    line-height: 29px;
+    margin: 0;
+    outline: 0;
+    padding: 0 10px 0 11px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .button:hover {
+    opacity: 0.8;
+  }
+}

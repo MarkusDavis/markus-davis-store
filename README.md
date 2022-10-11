@@ -8,15 +8,15 @@
 
 ## Technologies 🔧
 
-- Next.js(React)
-- TypeScript
-- Prisma
+- Next.js
+- React
+- Redux
+- Material UI
+- Firebase
 - NextAuth
 - Stripe
-- Tailwind
-- React Query
-- Sentry
-- Yup
+- TailwindCSS
+
 ## Demo
 See (https://markus-davis-store.vercel.app/).
 
